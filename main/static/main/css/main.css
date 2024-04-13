@@ -1,0 +1,25 @@
+body{
+    background: dimgrey;
+}
+.alert-warning{
+    float: left;
+    clear: both;
+    width: 400px;
+    margin: 20px 34%;
+    text-align: left;
+}
+.btn-danger{
+    margin-left: 30%
+}
+.btn-info{
+    margin-left: 40%;
+}
+.btn-warning{
+    margin-left: 22%;
+}
+.btn-success {
+    margin-left: 29%;
+}
+h1{
+    margin-left: 34%;
+}
